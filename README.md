@@ -14,7 +14,7 @@ Install Pygame then run
 py visual-pygame.py
 ```
 
-Else run 
+Else run
 ```
 py visual.py
 ```
