@@ -10,7 +10,7 @@ Install Pygame then run
 py visual-pygame.py
 ```
 
-Else run
+Or run the following without pygame
 ```
 py visual.py
 ```
