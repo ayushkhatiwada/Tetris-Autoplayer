@@ -3,8 +3,6 @@ Bot that automatically plays Tetris
 
 ![alt text](tetris_bot_screenshot.png "tetris_bot")
 
-&nbsp;
-
 ## How to run 
 
 Install Pygame then run
