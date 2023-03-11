@@ -1,8 +1,6 @@
 # Tetris-Autoplayer
 Bot that automatically plays Tetris
 
-&nbsp;
-
 ![alt text](tetris_bot_screenshot.png "tetris_bot")
 
 &nbsp;
