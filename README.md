@@ -1,7 +1,8 @@
 # Tetris-Autoplayer
 Bot that automatically plays Tetris
+Aims to get 4 line clears to maximise score 
 
-![alt text](tetris_bot_screenshot.png "tetris_bot")
+https://github.com/ayushkhatiwada/Tetris-Autoplayer/assets/114440215/6ed32b5a-a234-456b-b208-2e22bbcf422e
 
 ## How to run 
 
